@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sandeep
-- 👀 I’m a Data Analysis enthusiast. 
-- 🌱 Life long student of Analytics, Machine learning, Data Science and AI. I’m currently working on a few personal Machine learning projects. Anyone interested to collaborate, contact me!
-- ✌️  Linkedin: www.linkedin.com/in/sandeep-gurjar-65a905131
+- ⚙️ Hi, I’m Sandeep
+- ⚙️ I’m a Data Analytics enthusiast. 
+- ⚙️ Lifelong Analytics, Machine learning, Data Science, and AI student. I’m currently working on a few personal Machine learning projects. Anyone interested in collaborating, contact me!
+- ⚙️ Linkedin: www.linkedin.com/in/sandeep-gurjar-65a905131
      
 
 <!---
